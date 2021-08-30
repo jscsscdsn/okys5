@@ -1,0 +1,1 @@
+﻿document.writeln("<a href=\"https:\/\/www.okys5.com\" target=\"_blank\"><img alt=\"OK影视网\" src=\"https:\/\/www.okys5.com\/300x250.gif\" width=\"100%\" height=\"250\" \/><\/a>")
